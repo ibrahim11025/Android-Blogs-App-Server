@@ -31,4 +31,4 @@ fun delete() : String = "ibrahim"
 Table  
 | Name | Age | Sal |
 |-----|-----|----|
-|mohammed
+|mohammed|ali|151|
